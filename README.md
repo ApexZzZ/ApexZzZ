@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ItzRex</h1>
 <h3 align="center">A Full - Stack Developer From Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexx009&label=Profile%20views&color=0e75b6&style=flat" alt="rexx009" /> </p>
-
 - 🔭 I’m currently working on **PocketMine-MP**
 
 - 🌱 I’m currently learning **Html and Python**
