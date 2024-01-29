@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **PocketMine-MP**
+- 🔭 I’m currently working on **HTML/CSS/JS**
 
-- 🌱 I’m currently learning **Html and Python**
+- 🌱 I’m currently learning **Python and JavaScript**
 
-- 👯 I’m looking to collaborate on **PocketMine-Plugins**
+- 👯 I’m looking to collaborate on **Web Devlopment**
 
 - 🤝 I’m looking for help with **express**
 
